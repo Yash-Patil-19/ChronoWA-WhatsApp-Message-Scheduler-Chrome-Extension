@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#08090D"/>
+  <rect x="2" y="2" width="124" height="124" rx="26" fill="none" stroke="#2563EB" stroke-width="4"/>
+  <circle cx="64" cy="64" r="42" fill="#0F121A" stroke="#2563EB" stroke-width="3"/>
+  <!-- Clock hands in Acid Lime -->
+  <polyline points="64,36 64,64 84,76" fill="none" stroke="#CCFF00" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Center dot -->
+  <circle cx="64" cy="64" r="5" fill="#CCFF00"/>
+  <!-- Lightning accent -->
+  <path d="M96 26 L88 42 L98 42 L84 62 L88 48 L80 48 Z" fill="#2563EB"/>
+</svg>
